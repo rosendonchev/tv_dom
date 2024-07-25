@@ -9,7 +9,7 @@ async function scrapeAndPushToGit() {
     
     // Launch a new browser instance with --no-sandbox flag
     const browser = await puppeteer.launch({
-        args: ['--no-sandbox', '--disable-setuid-sandbox']
+  executablePath: '/usr/bin/chromium-browser', args: ['--no-sandbox', '--disable-setuid-sandbox']
     });
     const page = await browser.newPage();
 
@@ -92,4 +92,4 @@ async function scrapeAndPushToGit() {
 }
 
 // Export the function to be used in the server
-// module.exports = scrapeAndPushToGit;
+module.exports = scrapeAndPushToGit;
