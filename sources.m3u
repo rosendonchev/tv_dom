@@ -47,3 +47,109 @@ https://cdn4.gledam.xyz/hls/hd-discovery-channel-hd/index.m3u8?e=1723244379&hash
 https://cdn4.gledam.xyz/hls/hd-eurosport-1-hd/index.m3u8?e=1723244486&hash=bTLoYC7yYCBih2SbyMNtWg
 #EXTINF:-1,hd-eurosport-2-hd
 https://cdn4.gledam.xyz/hls/hd-eurosport-2-hd/index.m3u8?e=1723244498&hash=q2RqJ7k1ESiIuGLI9-jtkA
+#EXTINF:-1,euronews-bulgaria
+https://cdn4.gledam.xyz/hls/euronews-bulgaria/index.m3u8?e=1723244502&hash=Y2I2Bi9uTRwoj1BTSF7n0w
+#EXTINF:-1,evrokom
+https://cdn4.gledam.xyz/hls/evrokom/index.m3u8?e=1723244507&hash=jITv_XQzdtvnj3yCtWvopQ
+#EXTINF:-1,folklor-tv
+https://de1.glebul.com/hls/folklor-tv/index.m3u8?e=1723244511&hash=yLxnJLXG5KMuy_WjSetT7Q
+#EXTINF:-1,hd-food-network-hd
+https://de1.glebul.com/hls/hd-food-network-hd/index.m3u8?e=1723244520&hash=IY4kO9j07CvWduKacqdIbw
+#EXTINF:-1,hd-star-crime-hd
+https://de1.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1723244534&hash=q1d4C4YobmGpfKCNmkQyqQ
+#EXTINF:-1,hd-star-channel-hd
+https://de1.glebul.com/hls/hd-star-channel-hd/index.m3u8?e=1723244546&hash=1EOXdiOkarmvTAvCBiiyqQ
+#EXTINF:-1,hd-star-life-hd
+https://de1.glebul.com/hls/hd-star-life-hd/index.m3u8?e=1723244550&hash=jRPVT0e-Lkzf9MIyOuHSzA
+#EXTINF:-1,hd-id-xtra-hd
+https://cdn4.gledam.xyz/hls/hd-id-xtra-hd/index.m3u8?e=1723244554&hash=LBfpD374MH09XsnqJwhkbg
+#EXTINF:-1,kanal-3
+https://c.eticket.services/kanal3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,kino-nova
+https://de1.glebul.com/hls/kino-nova/index.m3u8?e=1723244565&hash=JFT9GJY2pE7n-EHWXEl8_A
+#EXTINF:-1,hd-max-sport-1-hd
+https://cdn1.gledam.xyz/hls/hd-max-sport-1-hd/index.m3u8?e=1723244573&hash=-iNexCRy_1GyO-ukktmMqw
+#EXTINF:-1,hd-max-sport-2-hd
+https://cdn4.gledam.xyz/hls/hd-max-sport-2-hd/index.m3u8?e=1723244580&hash=pkuDOcq3ndmjqiicE8P-AQ
+#EXTINF:-1,hd-max-sport-3-hd
+https://cdn1.gledam.xyz/hls/hd-max-sport-3-hd/index.m3u8?e=1723244589&hash=GlD2mEDSulkmM5Y1XWTAHw
+#EXTINF:-1,hd-max-sport-4-hd
+https://cdn4.gledam.xyz/hls/hd-max-sport-4-hd/index.m3u8?e=1723244594&hash=MaboIlih-NIAoE-P466CKw
+#EXTINF:-1,hd-nat-geo-hd
+https://de1.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1723244598&hash=lBCSu3isWXBoQfQgdPYdOw
+#EXTINF:-1,hd-nat-geo-wild-hd
+https://cdn4.gledam.xyz/hls/hd-nat-geo-wild-hd/index.m3u8?e=1723244602&hash=aUQ3vJhHLoL1t5ygIc-pRw
+#EXTINF:-1,nick-jr
+https://cdn4.gledam.xyz/hls/nick-jr/index.m3u8?e=1723244609&hash=ho6qajl9htDJkVrlXLCKiQ
+#EXTINF:-1,nickelodeon
+https://cdn4.gledam.xyz/hls/nickelodeon/index.m3u8?e=1723244613&hash=JWaH7UmKAv7bbvuPwmnqPw
+#EXTINF:-1,nicktoons
+https://de1.glebul.com/hls/nicktoons/index.m3u8?e=1723244619&hash=_o6bYt5wOJ_flGi7zdkD3Q
+#EXTINF:-1,hd-nova-news-hd
+https://cdn4.gledam.xyz/hls/hd-nova-news-hd/index.m3u8?e=1723244625&hash=ChXbCCqTxvuxU1qRjQFsEA
+#EXTINF:-1,hd-nova-sport-hd
+https://de1.glebul.com/hls/hd-nova-sport-hd/index.m3u8?e=1723244629&hash=IvGgGmvB6cUYCtTqnl9C5g
+#EXTINF:-1,planeta-folk
+https://cdn4.gledam.xyz/hls/planeta-folk/index.m3u8?e=1723244638&hash=amrz85-iQVFaaN6jjOSraA
+#EXTINF:-1,hd-planeta-hd
+https://cdn4.gledam.xyz/hls/hd-planeta-hd/index.m3u8?e=1723244646&hash=I_YcCHYehNBjj9CrU5eR8g
+#EXTINF:-1,hd-ring-bg-hd
+https://cdn1.gledam.xyz/hls/hd-ring-bg-hd/index.m3u8?e=1723244650&hash=yzo5Qmyr2GXHukj39UqKCA
+#EXTINF:-1,rodina-tv
+https://de1.glebul.com/hls/rodina-tv/index.m3u8?e=1723244654&hash=dyfDei-wnCaRCBnFQ5_FGw
+#EXTINF:-1,hd-78-tv-hd
+https://de1.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1723244663&hash=SWGf-axu382YhwiIgQUeZA
+#EXTINF:-1,skat
+https://de1.glebul.com/hls/skat/index.m3u8?e=1723244667&hash=WCxm6FWG_ZbRLQJtSl0g1g
+#EXTINF:-1,the-voice
+https://de1.glebul.com/hls/the-voice/index.m3u8?e=1723244671&hash=pgL97_TguFDafcTydrUemw
+#EXTINF:-1,tiankov-tv
+https://cdn4.gledam.xyz/hls/tiankov-tv/index.m3u8?e=1723244675&hash=0UwRXQAIr8Yj2Y0CBiz6ag
+#EXTINF:-1,tlc
+https://de1.glebul.com/hls/tlc/index.m3u8?e=1723244679&hash=uZIXbiDTvNbjrcJ4T2H0GA
+#EXTINF:-1,hd-travel-channel-hd
+https://de1.glebul.com/hls/hd-travel-channel-hd/index.m3u8?e=1723244686&hash=rIyP_0j9RRhGFwM4_3Yqog
+#EXTINF:-1,travel-tv
+https://cdn4.gledam.xyz/hls/travel-tv/index.m3u8?e=1723244691&hash=iDmRPzQdmjj-BjVlZoaS9g
+#EXTINF:-1,tv-1
+https://de1.glebul.com/hls/tv-1/index.m3u8?e=1723244696&hash=axPzteIM3KSAd_3PGWs9-A
+#EXTINF:-1,vtk
+https://de1.glebul.com/hls/vtk/index.m3u8?e=1723244705&hash=ZAgAyEeCGPRxd6tjPkasfA
+#EXTINF:-1,hd-24-kitchen-hd
+https://cdn4.gledam.xyz/hls/hd-24-kitchen-hd/index.m3u8?e=1723244709&hash=XQjeXmmEDoZlS6LnYlxf1A
+#EXTINF:-1,alfa-tv
+https://de1.glebul.com/hls/alfa-tv/index.m3u8?e=1723244713&hash=Dvmj7-qniRicRhZ155mzhQ
+#EXTINF:-1,axn
+https://cdn4.gledam.xyz/hls/axn/index.m3u8?e=1723244717&hash=CDR595Pf15wkQwNP-jCAVw
+#EXTINF:-1,axn-black
+https://cdn4.gledam.xyz/hls/axn-black/index.m3u8?e=1723244721&hash=lFGokB93qZJmcevKgK0MTQ
+#EXTINF:-1,axn-white
+https://de1.glebul.com/hls/axn-white/index.m3u8?e=1723244726&hash=bf_IgffJySEhIz_yUAE9dQ
+#EXTINF:-1,bloomberg-tv
+https://de1.glebul.com/hls/bloomberg-tv/index.m3u8?e=1723244730&hash=clDg0fN7ABaWrsU5MUyu8g
+#EXTINF:-1,Unknown Channel
+https://de1.glebul.com/hls/hd-btv-hd/index.m3u8?e=1723244747&hash=z12xiV8dUjy3jvG8BCya3Q
+#EXTINF:-1,hd-btv-hd
+https://mx86.glebul.com/hlsfhd/hd-btv-hd.m3u8?e=1723244757&hash=VW_XSU7PGr1IfZf3AA7FKw
+#EXTINF:-1,hd-btv-hd
+https://ssdraid.glebul.com/hls/hd-btv-hd/index.m3u8?e=1723244761&hash=QqEpc_OEWDu1LSFZ7__vmg
+#EXTINF:-1,hd-btv-hd
+https://cdn1.gledam.xyz/dvr/hd-btv-hd/tracks-v1a1/rewind-86940.m3u8?e=1723244764&hash=ow-5ZbozvCKr0Bicj9XAkA
+#EXTINF:-1,Unknown Channel
+https://de1.glebul.com/hls/hd-btv-hd/index.m3u8?e=1723244771&hash=fVzO-djI3GOwN2cNAnmN5g
+#EXTINF:-1,Unknown Channel
+https://cdn4.gledam.xyz/hls/hd-btv-hd/index.m3u8?e=1723244775&hash=-h7IvzeOXxH6Qq9vEOScZQ
+#EXTINF:-1,Unknown Channel
+https://cdn4.gledam.xyz/hls/hd-diema-sport-3-hd/index.m3u8?e=1723244791&hash=N_zxizyQvtJTfj4z4lsG7Q
+#EXTINF:-1,Unknown Channel
+https://de1.glebul.com/hls/hd-btv-hd/index.m3u8?e=1723244804&hash=VjjlnM7KHfTTSNIXSt6geg
+#EXTINF:-1,Unknown Channel
+https://de1.glebul.com/hls/hd-btv-hd/index.m3u8?e=1723244808&hash=b9Sob8wJ_waX6rNlYcCW0A
+#EXTINF:-1,Unknown Channel
+https://cdn4.gledam.xyz/hls/hd-btv-hd/index.m3u8?e=1723244813&hash=asmOxOMj8RT_AoaGv5HKSg
+#EXTINF:-1,Unknown Channel
+https://de1.glebul.com/hls/hd-btv-hd/index.m3u8?e=1723244817&hash=1EacS4Pxfse6Su2A68ok7w
+#EXTINF:-1,Unknown Channel
+https://cdn4.gledam.xyz/hls/hd-diema-sport-2-hd/index.m3u8?e=1723244820&hash=Ej6MdBon2udX3j1JJ1Tsag
+#EXTINF:-1,Unknown Channel
+https://cdn4.gledam.xyz/hls/hd-btv-hd/index.m3u8?e=1723244829&hash=h3olHq13wrgqd8hpgZEw9w
