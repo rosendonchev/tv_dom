@@ -1,13 +1,9 @@
 #EXTM3U
 #EXTINF:-1,BNT1
-https://cdn4.gledam.xyz/hls/hd-bnt-1-hd/index.m3u8?e=1728313322&hash=gpWAORzmXXnM8GC1B5Dxjw
+https://cdn5.gledam.xyz/hls/hd-bnt-1-hd/index.m3u8?e=1728315121&hash=4kGagUT82GKTyCKgwY7YVg
 #EXTINF:-1,BNT2
-https://de1.glebul.com/hls/bnt-2/index.m3u8?e=1728313329&hash=L66tXJJnSRs4xkbd6RwlPg
+https://de1.glebul.com/hls/bnt-2/index.m3u8?e=1728315127&hash=LNHTw2IQMZMDw6t8ANsdFQ
 #EXTINF:-1,BNT3
-https://cdn4.gledam.xyz/hls/hd-bnt-3-hd/index.m3u8?e=1728313336&hash=1inAPKByCO33Oy_2CG-fwA
+https://cdn4.gledam.xyz/hls/hd-bnt-3-hd/index.m3u8?e=1728315136&hash=bEFeQ9PWUZxVVkSkTfhRng
 #EXTINF:-1,BNT4
-https://cdn4.gledam.xyz/hls/bnt-4/index.m3u8?e=1728313344&hash=fXfcatDEFHjXZqO1MxdDDw
-#EXTINF:-1,Nova
-https://cdn5.gledam.xyz/hls/hd-nova-tv-hd/index.m3u8?e=1728313351&hash=-QzGsfNplvl0tp79oFU6Nw
-#EXTINF:-1,bTV
-https://cdn5.gledam.xyz/hls/hd-btv-hd/index.m3u8?e=1728313359&hash=h33LNHcdNq-tb2oSdOjWZA
+https://cdn4.gledam.xyz/hls/bnt-4/index.m3u8?e=1728315143&hash=UZ4f4xw_3nEkAmQsLSx9OA
