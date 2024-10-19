@@ -1,1 +1,15 @@
 #EXTM3U
+#EXTINF:-1,TheVoice
+https://de1.glebul.com/hls/the-voice/index.m3u8?e=1729363073&hash=OvF2P_v_Uxc31t5rJUzVYA
+#EXTINF:-1,TiankovFolk
+https://cdn4.gledam.xyz/hls/tiankov-tv/index.m3u8?e=1729363080&hash=ma8yqaXWkbikf5h4eesX4g
+#EXTINF:-1,TLC
+https://cdn5.gledam.xyz/hls/tlc/index.m3u8?e=1729363087&hash=cAPrsy-L3zX2L7Sr8WRKAw
+#EXTINF:-1,TravelChannel
+https://cdn5.gledam.xyz/hls/hd-travel-channel-hd/index.m3u8?e=1729363094&hash=EE8av5jMU3EUoNCIFodawg
+#EXTINF:-1,Travel
+https://cdn4.gledam.xyz/hls/travel-tv/index.m3u8?e=1729363100&hash=TJVLeWtjITA0YT7fAyjelw
+#EXTINF:-1,TV1
+https://cdn5.gledam.xyz/hls/tv-1/index.m3u8?e=1729363107&hash=OANlMp0dwTTvMf_EqyqPNA
+#EXTINF:-1,VTK
+https://cdn4.gledam.xyz/hls/vtk/index.m3u8?e=1729363114&hash=1jH1-XeSW2rJyYybtlMDOA
