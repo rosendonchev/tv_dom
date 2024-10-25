@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1,BNT1
+https://cdn4.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1729864951&hash=aTPoDTwrYd3z3p2lQFwqBw
+#EXTINF:-1,BNT2
+https://cdn4.glebul.com/hls/bnt-2/index.m3u8?e=1729864957&hash=0z3-IIBRiKKtVODDIBepwA
+#EXTINF:-1,BNT3
+https://de1.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1729864963&hash=kU4Xr8haFPRaQjL9pYL1Fw
+#EXTINF:-1,BNT4
+https://cdn5.glebul.com/hls/bnt-4/index.m3u8?e=1729864969&hash=B6TmEvHJOGJFYa3XWcDpVQ
+#EXTINF:-1,Nova
+https://cdn4.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1729864976&hash=3LO5rEun619t-0mVQPVvJw
+#EXTINF:-1,bTV
+https://cdn4.glebul.com/hls/hd-btv-hd/index.m3u8?e=1729864982&hash=q-7G1j1irv4j_2Tn_A7M_Q
